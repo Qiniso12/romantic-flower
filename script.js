@@ -35,3 +35,19 @@ window.onload = () => {
     },10000);
 
 };
+for(let i = 0; i < 40; i++){
+
+    const petal = document.createElement("div");
+
+    petal.innerHTML = "🌸";
+
+    petal.style.position = "absolute";
+    petal.style.left = Math.random() * 100 + "vw";
+    petal.style.top = "-50px";
+    petal.style.fontSize = "30px";
+
+    petal.style.animation =
+      `fall ${5 + Math.random()*10}s linear infinite`;
+
+    document.body.appendChild(petal);
+}
