@@ -10,7 +10,7 @@ window.onload = () => {
         messageBox.style.opacity = "1";
 
         const text =
-        "Good morning my love it's a Saturday morning and I still choose you ngyakuthanda yezwa";
+        "Good morning my love it's a Saturday morning and I still choose you ngyakuthanda";
 
         const words = text.split(" ");
 
