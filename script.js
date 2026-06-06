@@ -51,3 +51,4 @@ for(let i = 0; i < 40; i++){
 
     document.body.appendChild(petal);
 }
+music.play();
