@@ -10,7 +10,7 @@ window.onload = () => {
         messageBox.style.opacity = "1";
 
         const text =
-        "Every moment with you feels like a beautiful dream that I never want to end.";
+        "Good morning my love it's a Saturday morning and I still choose you ngyakuthanda yezwa";
 
         const words = text.split(" ");
 
